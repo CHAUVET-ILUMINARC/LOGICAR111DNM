@@ -1,4 +1,4 @@
-# LOGICAR111DM
+# LOGICAR111DNM
  
 [V1.11-230628– LOGIC AR111 Downlight M](https://github.com/CHAUVET-ILUMINARC/LOGICAR111DNM/blob/7b2ce524124784a851c95ca0546a86c5411a3c23/firmware/V1_11_230628_Logic%20AR111DNM.zip)
 - Release software version
